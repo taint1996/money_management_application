@@ -1,3 +1,4 @@
+import React from "react"
 import TopBar from "./components/topbar/TopBar"
 import Sidebar from "./components/sidebar/Sidebar"
 import Home from "./pages/home/Home"
